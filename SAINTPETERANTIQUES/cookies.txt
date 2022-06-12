@@ -1,0 +1,10 @@
+<h1> Cookies:</h1>
+<p>What are Cookies?<br>
+HTTP cookie, also called cookie, is a packet of information, in the form of a script, sent from your web browser, then they are returned, when the browser has access to the same server. Almost every site that uses password, security features or just because of functionality, uses cookies.<br>
+<br>
+Usage of cookies<br>
+„Cookies“ can be just random information, selected from the server, can be used to just keep the page from crashing, these are called "Performance cookies" or "Necessary cookies".<br>
+Cookies were designed to be a reliable mechanism for websites to remember stateful information (such as items added in the shopping cart in an online store) or to record the user's browsing activity (including clicking particular buttons, logging in, or recording which pages were visited in the past). 
+They can also be used to remember pieces of information that the user previously entered into form fields, such as names, addresses, passwords, and payment card numbers. Cookies perform essential functions in the modern web. Perhaps most importantly, authentication cookies are the most common method used by web servers to know whether the user is logged in or not, and which account they are logged in with. Without such a mechanism, the site would not 
+know whether to send a page containing sensitive information or require the user to authenticate themselves by logging in.
+</div>
